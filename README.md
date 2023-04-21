@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ftnoddy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-👋 Hi, @ftnoddy, it's nice to meet you!
 
-<!---
-ftnoddy/ftnoddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm interested in web development, blockchain, and related technologies.
+
+🌱 Currently, I'm learning more about smart contract development and decentralized finance (DeFi) on blockchain platforms.
+
+💞️ I'm interested in collaborating on projects that involve building decentralized web applications, creating smart contracts, and developing blockchain-based solutions for businesses or startups.
+
+📫 You can reach me through my Github profile at https://github.com/ftnoddy or my email at [atindramohandas353@gmail.com]. Let's connect and discuss further!
